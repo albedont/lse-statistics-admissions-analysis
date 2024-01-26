@@ -1,35 +1,39 @@
-# Analysis of BSc Data Science Admissions at London School of Economics - ST115 Project
+# Analysis of the Department of Statistics Admissions at London School of Economics - ST115 Project
 
 ## Overview
-This repository contains our project for the ST115 module 'Managing and Visualising Data' at LSE. The project aims to analyze admission trends for the BSc Data Science program, exploring aspects such as application trends, insights from successful personal statements, and connections between module choices throughout the whole duration of the program (3 years).
+This repository hosts our project for the ST115 module 'Managing and Visualising Data' at LSE. The project's objective is to analyze admission trends across three statistics programs: BSc Data Science, BSc Mathematics, Statistics and Business, and BSc Actuarial Science. We explore application trends, extract insights from successful personal statements, and examine the connections between module choices over the 3-year program duration.
 
 ## Project Structure
 
 - **Data**: Contains all datasets used in the analysis.
-- **Documentation**: Additional documentation including the comprehensive project report.
+- **Documentation**: A comprehensive project report.
 
 ## Key Insights
 
-- **Application Trends**: Trends over the years in the applications for the BSc Data Science, BSc Maths, Stats and Business, and BSc Actuarial Science programs.
-- **Personal Statement Analysis**: Key themes and insights drawn from the analysis of personal statements.
-- **Module Choices**: Popular module choices among applicants and enrolled students.
+- **Application Trends**: Application Trends: Examination of yearly trends in applications for the BSc Data Science, BSc Mathematics, Statistics and Business, and BSc Actuarial Science programs.
+- **Personal Statement Analysis**: Analysis of key themes and insights from successful personal statements.
+- **Module Choices**: An in-depth analysis of the first and second-year module choices to determine how they impact options in consecutive years, focusing on prerequisites and their role in unlocking advanced modules.
 
 ## Technologies and Tools
 
 - Python
 - Pandas
 - Plotly
-- Natural Language Processing techniques
+- NumPy
+- MatPlotLib
+- re(Regular Expressions)
+- BeautifulSoup
+- NetworkX
+- NLTK
 
 ## Setup and Running the Project
 
 1. Clone the repository.
-2. Install required dependencies: `pip install -r requirements.txt`.
-3. Run the Jupyter Notebooks in the Notebooks folder.
+2. Run [Detailed Project Report](Documentation/final.ipynb) in the Documentation folder.
 
 ## Visualizations
 
-Visualizations illustrating various trends and insights can be found in the Visualizations folder.
+Intercative and still visualizations illustrating various trends and insights can be found after runninf the JUPYTER NOTEBOOK.
 
 ## Additional Documentation
 
