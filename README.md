@@ -7,7 +7,7 @@ This repository hosts our project for the ST115 module 'Managing and Visualising
 ## Project Structure
 
 - [Data](Data): Contains all datasets used in the analysis.
-- **Documentation**: A comprehensive project report.
+- [Documentation](Documentation): A comprehensive project report.
 
 ## Key Insights
 
