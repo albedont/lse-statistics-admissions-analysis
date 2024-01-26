@@ -29,7 +29,7 @@ This repository hosts our project for the ST115 module 'Managing and Visualising
 ## Setup and Running the Project
 
 1. Clone the repository.
-2. Run [Detailed Project Report](Documentation/final.ipynb) in the Documentation folder.
+2. Run [Detailed Project Report](Documentation/Final_Report.ipynb) in the Documentation folder.
 
 ## Visualizations
 
